@@ -35,7 +35,7 @@ LCP scores possible solutions :
 
 
 **First Delay Input** - measures the user's first impressions of the site's responsiveness and interactivity.  For example, how quickly does the page respond when users scroll, click, and tap it? 
-It is common for testing tools to estimate FDI using Total Blocking Time ,TBT.
+It is common for testing tools to estimate FDI using Total Blocking Time,TBT.
 
 What are the common causes of poor FDI scores? 
 - Long Javascript execution time.
@@ -46,11 +46,11 @@ FDI scores possible solution :
 - Bundle analysis.
 
 **Cumulative Layout Shift** - measures the stability of the layout and ensures a smooth and natural user experience. Does the content move unexpectedly? 
-You may encounter this situation when you're reading content on a website an suddenly an advertisement appears.
+You may encounter this situation when you're reading content on a website and suddenly an advertisement appears.
 
 What are the common causes of poor CLS scores? 
 - Ad promotions and images without dimensions bounce around the content.
-- Web Fonts that cause a Flash of Invisible Text, FOIT or Flash of Unstyled Text ,FOUT.
+- Web Fonts that cause a Flash of Invisible Text,FOIT or Flash of Unstyled Text,FOUT.
 
 CLS possible solutions:
 - Images and videos must always have height and width specified.
@@ -67,5 +67,5 @@ CLS possible solutions:
 A website audit can provide information about the current state of a website, evaluate it, and help it become more effective.
 
 ### Reference
-- [Web Vitals :web de](https://web.dev/vitals/)
+- [Web Vitals:web de](https://web.dev/vitals/)
 - [Optimize for web vitals](https://web.dev/vitals/)
