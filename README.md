@@ -1,4 +1,4 @@
-# Web-Perfomance-Core-Web-Vitals
+# Web-Performance-Core-Web-Vitals
 
 Google's Core Web Vitals help users measure user experience by measuring speed, responsiveness, and visual stability. This article will cover the following topics:
 
